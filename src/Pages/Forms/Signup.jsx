@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import logo from "../../assets/logo.svg";
+import logo from "../../assets/logo.png";
 import signup from "../../assets/Forms/medical-banner-with-stethoscope.jpg";
 import facebook from "../../assets/Forms/icons8-facebook-48.png";
 import google from "../../assets/Forms/icons8-google-48.png";
